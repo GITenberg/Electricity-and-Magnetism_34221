@@ -1,0 +1,30 @@
+_repo: Electricity-and-Magnetism_34221
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gray, Elisha
+    birthdate: 1835
+    deathdate: 1901
+    gutenberg_agent_id: '36384'
+    url: http://www.gutenberg.org/2009/agents/36384
+    wikipedia: http://en.wikipedia.org/wiki/Elisha_Gray
+description: Nature's Miracles, Volume III
+gutenberg_issued: '2010-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Electricity'
+- !lcc 'QC'
+- !lcsh 'Science'
+- !lcsh 'Magnetism'
+- !lcc 'Q'
+title: Electricity and Magnetism
+url: http://www.gutenberg.org/ebooks/34221
